@@ -24,7 +24,7 @@ body {
   flex-direction: column;
   margin-left: 3.5vw;
   font-size: 7.5vw;
-  color: #fff;
+  color: #000;
   mix-blend-mode: difference;
 }
 
